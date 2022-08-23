@@ -14,6 +14,9 @@ Para contribuir a este proposito, se realizo un dashboard de visualizacion de da
 Los datos que se utilizará para el analisis se encuentran en:
 https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset
 Se inicia con un Dataset un tanto desordenado en cuanto a las columnas de los totales de ventas por region
+
+![image](https://user-images.githubusercontent.com/111831946/186108452-4f7909a8-7e61-41e3-902a-8360cc161f11.png)
+
 Luego de una cuantas transformaciones:
 
 * Se eliminó la columna de Ventas Totales
