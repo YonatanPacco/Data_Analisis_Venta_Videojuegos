@@ -1,4 +1,5 @@
 # Data_Analisis_Venta_Videojuegos
+![image](https://user-images.githubusercontent.com/111831946/186101678-5b2824b8-9f53-4c24-bcbc-5a49517ea0b1.png)
 
 
 # Problema
