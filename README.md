@@ -37,3 +37,5 @@ Luego de una cuantas transformaciones:
 
 * Ventas por genero y region:
 
+![image](https://user-images.githubusercontent.com/111831946/186113276-ca523303-b217-4953-8184-d10b36103a25.png)
+
