@@ -14,6 +14,9 @@ Para contribuir a este proposito, se realizo un dashboard de visualizacion de da
 Los datos que se utilizará para el analisis se encuentran en:
 https://www.kaggle.com/datasets/sidtwr/videogames-sales-dataset
 
+![image](https://user-images.githubusercontent.com/111831946/186102615-fb766444-ef18-4ee6-8c7d-f530608a55e5.png)
+
+
 # Analisis de datos
 * Ventas por año y region:
 
